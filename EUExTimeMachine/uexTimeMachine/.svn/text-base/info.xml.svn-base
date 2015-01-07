@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin uexName="uexTimeMachine" version="3.0.2" build = "2">
+        <info>2:解决uexTimeMachine插件设置页数只为2张以及打开多次无法全部关闭的bug</info>
+        <build>1:统一回调方法名，统一回调参数</build>
+        <build>0:旋转木马动画功能插件</build>
+	</plugin>
+</uexplugins>
